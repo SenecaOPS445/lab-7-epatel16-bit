@@ -15,6 +15,14 @@ class Time:
         self.minute = minute
         self.second = second
 
+    def __str__(self):
+        """Return a string representation for the object self"""
+        return f'{self.hour:02d}:{self.minute:02d}:{self.second:02d}'
+
+    def __repr__(self):
+        """Return a string representation for the object self in a different format"""
+        return f'{self.hour:02d}.{self.minute:02d}.{self.second:02d}'
+
     def format_time(self):
         """Return time object as a formatted string"""
         return f'{self.hour:02d}:{self.minute:02d}:{self.second:02d}'
