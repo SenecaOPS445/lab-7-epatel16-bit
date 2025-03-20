@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Student ID: epatel16
+# Student ID: epatel16.
 from lab7c import *
 
 t1 = Time(8, 0, 0)

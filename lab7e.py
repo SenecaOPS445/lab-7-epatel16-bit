@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Student ID: epatel16
+# Student ID: epatel16.
 
 class Time:
     """Simple object type for time of the day.

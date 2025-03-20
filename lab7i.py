@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Student ID: epatel16
+# Student ID: epatel16.
 
 def function1():
     # Do not modify the global schoolName here, just use it

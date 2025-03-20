@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+#Author ID: epatel16
+
 class Time:
     def __init__(self, hour=0, minute=0, second=0):
         # Validate that the arguments are integers
