@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Author ID: Ebrahim Patel
+#Author ID: Ebrahim Patel, epatel16
 
 class Time:
    """Simple object type for time of the day.
